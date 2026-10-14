@@ -1,4 +1,4 @@
-# hello-world-activity5
+# hello-world
 Activity 5 — Collaborative Coding with GitLens and Live Share
 ## Collaboration Log
 
